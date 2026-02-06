@@ -19,11 +19,11 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [otel-bench](https://github.com/QuesmaOrg/otel-bench) - Measures agent ability to instrument code with OpenTelemetry across multiple languages
 - [CompileBench](https://github.com/QuesmaOrg/CompileBench) - Measures agent ability to build a working binary from source
 - [harbor-datasets](https://github.com/laude-institute/harbor-datasets) - Popular benchmarks (e.g. SWE-bench verified) ported to run in Harbor.
-- [seta-env](https://github.com/camel-ai/seta-env) - SETA: Scaling Environments for Terminal Agents with automated synthesis and verification pipeline
 
 ## Training Datasets
 
 - [SWE-gen-JS](https://github.com/abundant-ai/SWE-gen-JS) - 1000 JS/TS tasks generated from 30 open-source GitHub repos using SWE-gen
+- [seta-env](https://github.com/camel-ai/seta-env) - Scaling Environments for Terminal Agents: fully automated Harbor task synthesis and verification pipeline
 
 ## Training & RL
 
