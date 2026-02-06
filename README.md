@@ -34,6 +34,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 ## Tools
 
 - [harbor-bot](https://github.com/parsewave/harbor-bot) - GitHub bot automating QA on Harbor tasks
+- [Benchmark Template](https://github.com/harbor-framework/benchmark) - Template for building benchmarks on Harbor with automated QA in CI
 - [SWE-gen](https://github.com/abundant-ai/SWE-gen) - Convert GitHub PRs into Harbor tasks
 
 ---
