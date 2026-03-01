@@ -36,6 +36,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [harbor-bot](https://github.com/parsewave/harbor-bot) - GitHub bot automating QA on Harbor tasks
 - [Benchmark Template](https://github.com/harbor-framework/benchmark) - Template for building benchmarks on Harbor with automated QA in CI
 - [SWE-gen](https://github.com/abundant-ai/SWE-gen) - Convert GitHub PRs into Harbor tasks
+- [Oddish](https://github.com/abundant-ai/oddish) - Eval scheduler for running Harbor tasks with provider-aware queuing and automatic retries
 - [TerminalBenchTaskGenerator](https://github.com/yipihey/TerminalBenchTaskGenerator) - Desktop app for chat-driven authoring of Harbor benchmark tasks for scientists
 
 ---
