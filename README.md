@@ -22,7 +22,8 @@ A curated list of awesome projects in the Harbor ecosystem.
 
 ## Training Datasets
 
-- [SWE-gen-JS](https://github.com/abundant-ai/SWE-gen-JS) - 1000 JS/TS tasks generated from 30 open-source GitHub repos using SWE-gen
+- [SWE-gen-Java](https://github.com/abundant-ai/SWE-gen-Java) - 1000 JVM tasks generated from 16 open-source GitHub repos using [SWE-gen](https://github.com/abundant-ai/SWE-gen)
+- [SWE-gen-JS](https://github.com/abundant-ai/SWE-gen-JS) - 1000 JS/TS tasks generated from 30 open-source GitHub repos using [SWE-gen](https://github.com/abundant-ai/SWE-gen)
 - [seta-env](https://github.com/camel-ai/seta-env) - Scaling Environments for Terminal Agents: fully automated Harbor task synthesis and verification
 
 ## Training & RL
