@@ -32,6 +32,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [OpenThoughts-Agent](https://github.com/open-thoughts/OpenThoughts-Agent) - Generating Harbor tasks, distilling trajectories with SFT, and training with SkyRL
 - [endless-terminals](https://github.com/kanishkg/endless-terminals) - Procedurally generates terminal-use tasks and trains terminal agents with SkyRL
 - [Ares](https://github.com/withmartian/ares) - Framework for online RL training of LLM agents, built on Harbor and SkyRL
+- [SkyRL Harbor Integration](https://docs.skyrl.ai/docs/harbor) - Guide for integrating SkyRL with Harbor for RL training of agents
 
 ## Tools
 
