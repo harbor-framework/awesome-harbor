@@ -24,6 +24,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 
 - [SWE-gen-Java](https://github.com/abundant-ai/SWE-gen-Java) - 1000 JVM tasks generated from 16 open-source GitHub repos using [SWE-gen](https://github.com/abundant-ai/SWE-gen)
 - [SWE-gen-JS](https://github.com/abundant-ai/SWE-gen-JS) - 1000 JS/TS tasks generated from 30 open-source GitHub repos using [SWE-gen](https://github.com/abundant-ai/SWE-gen)
+- [Nemotron-Terminal-Synthetic-Tasks](https://huggingface.co/datasets/nvidia/Nemotron-Terminal-Synthetic-Tasks) - Synthetic terminal tasks by NVIDIA
 - [seta-env](https://github.com/camel-ai/seta-env) - Scaling Environments for Terminal Agents: fully automated Harbor task synthesis and verification
 
 ## Training & RL
@@ -31,6 +32,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [OpenThoughts-Agent](https://github.com/open-thoughts/OpenThoughts-Agent) - Generating Harbor tasks, distilling trajectories with SFT, and training with SkyRL
 - [endless-terminals](https://github.com/kanishkg/endless-terminals) - Procedurally generates terminal-use tasks and trains terminal agents with SkyRL
 - [Ares](https://github.com/withmartian/ares) - Framework for online RL training of LLM agents, built on Harbor and SkyRL
+- [SkyRL Harbor Integration](https://docs.skyrl.ai/docs/harbor) - Guide for RL training of agents with SkyRL and Harbor
 
 ## Tools
 
