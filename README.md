@@ -19,7 +19,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [otel-bench](https://github.com/QuesmaOrg/otel-bench) - Measures agent ability to instrument code with OpenTelemetry across multiple languages
 - [CompileBench](https://github.com/QuesmaOrg/CompileBench) - Measures agent ability to build a working binary from source
 - [harbor-datasets](https://github.com/laude-institute/harbor-datasets) - Popular benchmarks (e.g. SWE-bench verified) ported to run in Harbor.
-- [RuneBench](https://github.com/MaxBittker/RuneBench) - Measures agent ability on rune-based puzzle solving tasks
+- [RuneBench](https://github.com/MaxBittker/RuneBench) - Measures agent ability to play RuneScape and complete tasks via TypeScript SDK
 
 ## Training Datasets
 
