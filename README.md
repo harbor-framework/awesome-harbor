@@ -48,7 +48,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [Oddish](https://github.com/abundant-ai/oddish) - Eval scheduler for running Harbor tasks with provider-aware queuing and automatic retries
 - [TerminalBenchTaskGenerator](https://github.com/yipihey/TerminalBenchTaskGenerator) - Desktop app for chat-driven authoring of Harbor benchmark tasks
 - [AutoAgent](https://github.com/kevinrgu/autoagent) - Autonomous agent harness engineering driven by benchmark scores
-- [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) - Outer-loop system that searches over harness code for LLM agents
+- [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) - Autonomous agent harness engineering over source code, scores, and execution traces
 
 ---
 
