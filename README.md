@@ -20,7 +20,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [CompileBench](https://github.com/QuesmaOrg/CompileBench) - Measures agent ability to build a working binary from source
 - [harbor-datasets](https://github.com/laude-institute/harbor-datasets) - Popular benchmarks (e.g. SWE-bench verified) ported to run in Harbor.
 - [RuneBench](https://github.com/MaxBittker/RuneBench) - Measures agent ability to play RuneScape and complete tasks via TypeScript SDK
-- [legacy-bench](https://github.com/Factory-AI/legacy-bench) - Evaluates agents on maintaining, debugging, and modernizing legacy code in COBOL, Fortran, C, and Assembly
+- [legacy-bench](https://github.com/Factory-AI/legacy-bench) - Evaluates agents on maintaining, debugging, and modernizing legacy code in COBOL, Java 7, Fortran, C, and Assembly
 - [SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - Evaluates agents on professional SWE tasks including codebase comprehension and test writing
 
 ## Training Datasets
