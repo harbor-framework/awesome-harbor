@@ -47,7 +47,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [SWE-gen](https://github.com/abundant-ai/SWE-gen) - Convert GitHub PRs into Harbor tasks
 - [Oddish](https://github.com/abundant-ai/oddish) - Eval scheduler for running Harbor tasks with provider-aware queuing and automatic retries
 - [TerminalBenchTaskGenerator](https://github.com/yipihey/TerminalBenchTaskGenerator) - Desktop app for chat-driven authoring of Harbor benchmark tasks
-- [AutoAgent](https://github.com/kevinrgu/autoagent) - Autonomous system that uses AI agents to iteratively improve other agents' configs and prompts based on benchmark scores
+- [AutoAgent](https://github.com/kevinrgu/autoagent) - Autonomous agent harness engineering driven by benchmark scores
 
 ---
 
