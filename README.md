@@ -49,6 +49,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [TerminalBenchTaskGenerator](https://github.com/yipihey/TerminalBenchTaskGenerator) - Desktop app for chat-driven authoring of Harbor benchmark tasks
 - [AutoAgent](https://github.com/kevinrgu/autoagent) - Autonomous agent harness engineering driven by benchmark scores
 - [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) - Autonomous improvement of harness code using previous iterations and Harbor evaluations
+- [ATIF Trajectory Viewer](https://github.com/Slimshilin/ATIF-trajectory-viewer) - Browser-based viewer for replaying agent trajectories and analyzing failures with an automated failure taxonomy
 
 ---
 
