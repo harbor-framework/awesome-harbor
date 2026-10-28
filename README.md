@@ -35,6 +35,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 
 ## Training & RL
 
+- [Snowflake Cortex Training Harbor Integration](https://github.com/Snowflake-AI-Research/Arctic-Platform/tree/karthik/openhands-harbor/recipes/rl/harbor) - RL post-training of OpenHands and Harbor agents on Harbor tasks using Snowflake Cortex Training
 - [OpenThoughts-Agent](https://github.com/open-thoughts/OpenThoughts-Agent) - Generating Harbor tasks, distilling trajectories with SFT, and training with SkyRL
 - [endless-terminals](https://github.com/kanishkg/endless-terminals) - Procedurally generates terminal-use tasks and trains terminal agents with SkyRL
 - [Ares](https://github.com/withmartian/ares) - Framework for online RL training of LLM agents, built on Harbor and SkyRL
